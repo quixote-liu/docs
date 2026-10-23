@@ -31,14 +31,14 @@ go vet ./...
 
 ```powershell
 # 创建文档，省略 .md 后缀也可以
-.\tools\knowledge-cli\bin\knowledge.exe write --content "# Go 测试`n`n优先使用表驱动测试。" engineering/go/testing
+.\tools\knowledge-cli\bin\knowledge.exe write --content "# Go 测试`n`n优先使用表驱动测试。" summary/program/Go表驱动测试
 
 # 多行内容推荐通过 stdin 写入
-Get-Content -Raw draft.md | .\tools\knowledge-cli\bin\knowledge.exe write --stdin practices/code-review
+Get-Content -Raw draft.md | .\tools\knowledge-cli\bin\knowledge.exe write --stdin summary/other/代码审查
 
 # 查询
-.\tools\knowledge-cli\bin\knowledge.exe --json list --category engineering/go
-.\tools\knowledge-cli\bin\knowledge.exe --json read engineering/go/testing
+.\tools\knowledge-cli\bin\knowledge.exe --json list --category summary/program
+.\tools\knowledge-cli\bin\knowledge.exe --json read summary/program/Go表驱动测试
 .\tools\knowledge-cli\bin\knowledge.exe --json search --limit 20 "表驱动"
 ```
 
