@@ -7,3 +7,4 @@
 | [操作系统导论（Operating Systems：Three Easy Pieces）.pdf](<操作系统导论（Operating Systems：Three Easy Pieces）.pdf>) | 2026-10-23 | 收录《操作系统导论》中文资料，供学习和查阅操作系统知识。 |
 | [operating_systems_three_easy_pieces.pdf](operating_systems_three_easy_pieces.pdf) | 2026-10-23 | 收录 Operating Systems: Three Easy Pieces 英文资料，供学习及对照中文资料查阅。 |
 | [深入理解 AI Agent.pdf](<深入理解 AI Agent.pdf>) | 2026-10-23 | 收录 AI Agent 学习资料，供理解和探索 Agent 相关技术时查阅。 |
+| [[SQLite权威指南（第二版）].Grant.Allen.扫描版.pdf](<[SQLite权威指南（第二版）].Grant.Allen.扫描版.pdf>) | 2026-10-26 | 收录 SQLite 权威参考资料，供学习 SQLite 数据库机制、SQL 语法与应用开发时查阅。 |
